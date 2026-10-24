@@ -1,4 +1,4 @@
-MobileIntercomSystem-OLD-VERSION.lua
+-- MobileIntercomSystem-OLD-VERSION.lua -- 
 do
 local itemprefab0_order = ModUtilities.CreateItemPrefab()
 itemprefab0_order.Name = "<color=#C300FF>Mobile Clothes Order</color>"
@@ -120,4 +120,5 @@ itemprefab_notfound.OnUse = openShopDirect
 local item_notfound = ModUtilities.CreateNewItemAutoAssignId(CurrentModGuid, itemprefab_notfound)
 ModUtilities.AddGenericItemToShop('grocery', item_notfound)
 end
-MobileIntercomSystem-OLD-VERSION.lua
+
+-- MobileIntercomSystem-OLD-VERSION.lua -- 
