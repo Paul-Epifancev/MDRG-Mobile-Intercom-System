@@ -25,7 +25,17 @@ Please do not support unauthorized monetization of community work. For your safe
 Пожалуйста, не поддерживайте несанкционированную монетизацию труда комьюнити. Для вашей безопасности скачивайте **ТОЛЬКО** из этого официального репозитория GitHub.)*
 
 ---
+## 🎥 Video Demonstration / Видео-демонстрация
 
+<div align="center">
+  <a href="https://youtu.be/xiiOGF4Q4LA" target="_blank">
+    <img src="https://img.youtube.com/vi/xiiOGF4Q4LA/maxresdefault.jpg" alt="MDRG Mobile Intercom System Video Preview" width="600">
+  </a>
+  <br>
+  <sub>🎬 <a href="https://youtu.be/xiiOGF4Q4LA" target="_blank">Watch on YouTube / Смотреть на YouTube</a></sub>
+</div>
+
+<br>
 ## 📋 OVERVIEW / ОБЗОР
 
 **Mobile Intercom System** is a quality-of-life Lua mod that allows you to access all in-game shops and services directly from your apartment, without having to physically travel to each location.
