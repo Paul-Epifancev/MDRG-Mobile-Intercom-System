@@ -1,0 +1,19 @@
+{
+    "name": "Mobile Intercom System",
+    "description": "Author: anon.jun",
+    "modVersion": "1.0.0",
+    "OnGameStart": {
+        "luaFiles": 
+		[
+		"MobileIntercomSystem.lua"
+		]
+    },
+    "targetVersion": "0.97.12",
+    "languageCode": "en",
+    "doNotChangeVariablesBelowThis": {
+        "timeCreated": 639284539888101308,
+        "guid": {
+            "serializedGuid": "930badbd-aff6-437a-852f-089f48d3e8a8"
+        }
+    }
+}
